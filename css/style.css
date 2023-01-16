@@ -11,13 +11,8 @@ ul,ol{list-style: none;}
 img{vertical-align: top;}
 button,input,select{border: 0; background-color:  transparent;}
 
-#wrapper{
-    width: 100vh;
-    height: 100vh;
-    /* margin: 0 auto; */
-}
+#wrapper{}
 .wrap{
-    max-width: 384px;
     width: 384px;
     height: auto;
     margin: 0 auto 50px;
